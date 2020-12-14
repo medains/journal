@@ -6,7 +6,7 @@ title: Advent of Code 2020 (Week 2)
 Notes on the second week of the 2020 Advent of Code challenge at
 https://adventofcode.com/
 
-Check out the [previous post]({% post_url 2020-12-04-advent-of-code %}) for details on the challenge.
+Check out the [previous post]({% post_url 2020-12-04-advent_of_code_01 %}) for details on the challenge.
 
 # Day 8
 
